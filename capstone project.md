@@ -78,7 +78,7 @@ You can share your highlights with anyone. Creating a group allows you to invite
 Glasp is used in highting texts on YouTube videos.
 Annotating YouTube videos with Glasp adds an interactive dimension to your video-watching experience, allowing you to highlight key moments and make personalized notes. In this guide, we'll walk you through the process of annotating YouTube videos using Glasp in the YouTube app.
 Here is a quick video tutorial for a much clearer explanation 
-<video controls src="WhatsApp Video 2024-04-29 at 00.20.51_6d2ded16.mp4" title="Glasp for YouTUBE"></video>
+<video controls src="WhatsApp Video 2024-04-29 at 00.20.51_6d2ded16.mp4" title="Glasp for YouTUBE" type="video/mp4"></video>
 
 **Step 1: Install Glasp Browser Extension**
 Before you begin annotating videos in the YouTube app, ensure that you have the Glasp browser extension installed on your Chrome browser.
