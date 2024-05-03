@@ -1,5 +1,5 @@
 # GLASP:YOUR ULTIMATE TOOL FOR HIGHLIGHTING, ORGANIZING, AND COLLABORATING ON THE WEB
-![Glasp icon](image-2.png)
+![Glasp icon](Capstone Project Media\Images\image-2.png)
 ## <ins> TABLE OF CONTENT
 ### Introduction
 * ##### About Glasp
@@ -59,27 +59,27 @@ This helps you gain more knowledge from what others have to contribute. You also
 
 Here is a video tutorial on navigating glasp
 You can check it out for a much clearer explanation.
-<video controls src="WhatsApp Video 2024-04-29 at 02.52.49_ae3edd91.mp4" title="Glasp tutorial"></video>
+<video controls src="Capstone Project Media\Videos\WhatsApp Video 2024-04-29 at 02.52.49_ae3edd91.mp4" title="Glasp tutorial"></video>
 
 **Step 1: Create an account**
 To begin, open the Chrome browser on your computer.  Type in [glasp.co](www.glasp.co) on the search bar and you will automatically be redirected to glasp official site.
 Once on the Glasp website, locate the option to _"Add to Chrome"_ and click on it. A prompt will appear asking if you want to add glasp to your desktop. 
 
 Click _"Add to desktop"_ to proceed.
-![add Glasp to chrome](<WhatsApp Image 2024-04-29 at 02.57.55_dbc535ec.jpg>)
+![add Glasp to chrome](<Capstone Project Media\Images\WhatsApp Image 2024-04-29 at 02.57.55_dbc535ec.jpg>)
 
 **Step 2: Installing the Extension on Windows Browser**
 After installing the Glasp extension, find the extension menu and select _"Sign up"_. Enter your correct email and a strong password. Once logged in, choose your favorite topics to engage with on Glasp. 
 Note that not all your favorite topics may be available, and you can always change them later.
-![signing in](<WhatsApp Image 2024-04-29 at 02.57.55_8f1a4a6b.jpg>)
+![signing in](<Capstone Project Media\Images\WhatsApp Image 2024-04-29 at 02.57.55_8f1a4a6b.jpg>)
 
 **Step 3: Finding an article** 
 Go to _"Dashboard"_ and click on _"Home"_. You would find your selected topics behind _"Your Topics"_ option at the top left of your computer. Click on any of the topics and pick an article you wish to read. You can also edit these topics by clicking _"Edit"_ just at the front of _"Your Topics"_.
 
 You can then begin highlighting upon seeing sentences that catch your attention. Highlighting is done by double clicking a text in the sentence. Immediately you do this, a color option will pop-up so you can select the highlight color from the Glasp pop-up tool.
 
- ![opening an article](<WhatsApp Image 2024-04-29 at 02.57.55_8f9703d8.jpg>)
-![make highlight](<WhatsApp Image 2024-04-29 at 02.57.56_d28efbab.jpg>)
+ ![opening an article](<Capstone Project Media\Images\WhatsApp Image 2024-04-29 at 02.57.55_8f9703d8.jpg>)
+![make highlight](<Capstone Project Media\Images\WhatsApp Image 2024-04-29 at 02.57.56_d28efbab.jpg>)
 
 **Step 4: Opening Highlights**
 To view your highlights, return to the Home page and click on _"My Highlight"_ at the top left of your computer, close to _"Home"_.
@@ -87,7 +87,7 @@ To view your highlights, return to the Home page and click on _"My Highlight"_ a
 You can add extra notes to your highlights, gathering ideas from both yourself and others on the same article. Adding tags can help organize them, and comments aid in summarizing.
 
 You can share your highlights with anyone. Creating a group allows you to invite others to join and share thoughts and ideas, facilitating the discovery of interesting ideas and new connections.
-![opening highlight](<WhatsApp Image 2024-04-29 at 02.57.56_eac23b5b.jpg>)
+![opening highlight](<Capstone Project Media\Images\WhatsApp Image 2024-04-29 at 02.57.56_eac23b5b.jpg>)
 
 
 ##### <ins>_How Glasp works for Video content_ 
@@ -95,11 +95,11 @@ Glasp can be used in highting texts on YouTube videos.
 
 Annotating YouTube videos with Glasp adds an interactive dimension to your video-watching experience, allowing you to highlight key moments and make personalized notes. In this guide, we'll walk you through the process of annotating YouTube videos using Glasp in the YouTube app.
 Here is a quick video tutorial for a much clearer explanation 
-<video controls src="WhatsApp Video 2024-04-29 at 00.20.51_6d2ded16.mp4" title="Glasp for YouTUBE" type="video/mp4"></video>
+<video controls src="Capstone Project Media\Videos\WhatsApp Video 2024-04-29 at 00.20.51_6d2ded16.mp4" title="Glasp for YouTUBE" type="video/mp4"></video>
 
 **Step 1: Install Glasp Browser Extension**
 Before you begin annotating videos in the YouTube app, ensure that you have the Glasp browser extension installed on your Chrome browser.
-![installing extension](<WhatsApp Image 2024-04-29 at 03.09.43_cde056bf.jpg>)
+![installing extension](<Capstone Project Media\Images\WhatsApp Image 2024-04-29 at 03.09.43_cde056bf.jpg>)
 
 **Step 2: Copy Video Link**
 Once you have confirmed that your extension has been installed, go to your YouTube app and click on any video of your choice. 
@@ -108,12 +108,12 @@ While watching a YouTube video in the app, locate the _"Share"_ button below the
 
 **Step 3: Open Chrome Browser**
 Switch to your Chrome browser and paste the copied link into the address bar. Hit enter, and the YouTube video will load in your browser window. This step allows you to access the video within the Glasp environment, enabling annotation functionalities.
-![open copied link in chrome](<WhatsApp Image 2024-04-29 at 03.24.10_eceedc4b.jpg>)
+![open copied link in chrome](<Capstone Project Media\Images\WhatsApp Image 2024-04-29 at 03.24.10_eceedc4b.jpg>)
 
 **Step 4: Highlight Specific Moments**
 With the video now loaded in Chrome, you can start annotating specific moments using the Glasp extension.
 Click on the Glasp icon in your browser toolbar to access the annotation tools. You can highlight key points, add comments, and create tags to organize your annotations effectively. 
-![highlight](<WhatsApp Image 2024-04-29 at 03.13.04_0cc0ca0f.jpg>)
+![highlight](<Capstone Project Media\Images\WhatsApp Image 2024-04-29 at 03.13.04_0cc0ca0f.jpg>)
 
 Annotating YouTube videos with Glasp in the YouTube app is a straightforward process that enhances your video-watching experience. By following the steps outlined in this guide, you can make personalized notes, highlight important moments, and engage with the content in a more meaningful way. So next time you're watching a YouTube video on your mobile device, remember to leverage Glasp for an interactive and insightful viewing experience. 
 
@@ -129,7 +129,7 @@ Here is a very quick guide
 It's important to remember that Glasp is a tool to help you learn and organize information, so use it in a way that works best for you.
 
 #### FEATURES
-![features icon](image-1.png)
+![features icon](Capstone Project Media\Images\image-1.png)
 Glasp has varieties of features. They include: 
 * 	The very obvious one, which is to highlight text on web. Glasp helps organizes your highlights 
 *	It makes notes with tags 
