@@ -70,11 +70,13 @@ To begin, open the Chrome browser on your computer.  Type in [glasp.co](www.glas
 Once on the Glasp website, locate the option to _"Add to Chrome"_ and click on it. A prompt will appear asking if you want to add glasp to your desktop. 
 
 Click _"Add to desktop"_ to proceed.
+
 ![add Glasp to chrome](<Capstone Project Media\Images\WhatsApp Image 2024-04-29 at 02.57.55_dbc535ec.jpg>)
 
 **Step 2: Installing the Extension on Windows Browser**
 After installing the Glasp extension, find the extension menu and select _"Sign up"_. Enter your correct email and a strong password. Once logged in, choose your favorite topics to engage with on Glasp. 
 Note that not all your favorite topics may be available, and you can always change them later.
+
 ![signing in](<Capstone Project Media\Images\WhatsApp Image 2024-04-29 at 02.57.55_8f1a4a6b.jpg>)
 
 **Step 3: Finding an article** 
@@ -91,6 +93,7 @@ To view your highlights, return to the Home page and click on _"My Highlight"_ a
 You can add extra notes to your highlights, gathering ideas from both yourself and others on the same article. Adding tags can help organize them, and comments aid in summarizing.
 
 You can share your highlights with anyone. Creating a group allows you to invite others to join and share thoughts and ideas, facilitating the discovery of interesting ideas and new connections.
+
 ![opening highlight](<Capstone Project Media\Images\WhatsApp Image 2024-04-29 at 02.57.56_eac23b5b.jpg>)
 
 
@@ -104,6 +107,7 @@ https://go.screenpal.com/watch/cZhf13VMG93
 
 **Step 1: Install Glasp Browser Extension**
 Before you begin annotating videos in the YouTube app, ensure that you have the Glasp browser extension installed on your Chrome browser.
+
 ![installing extension](<Capstone Project Media\Images\WhatsApp Image 2024-04-29 at 03.09.43_cde056bf.jpg>)
 
 **Step 2: Copy Video Link**
@@ -114,11 +118,13 @@ While watching a YouTube video in the app, locate the _"Share"_ button below the
 
 **Step 3: Open Chrome Browser**
 Switch to your Chrome browser and paste the copied link into the address bar. Hit enter, and the YouTube video will load in your browser window. This step allows you to access the video within the Glasp environment, enabling annotation functionalities.
+
 ![open copied link in chrome](<Capstone Project Media\Images\WhatsApp Image 2024-04-29 at 03.24.10_eceedc4b.jpg>)
 
 **Step 4: Highlight Specific Moments**
 With the video now loaded in Chrome, you can start annotating specific moments using the Glasp extension.
 Click on the Glasp icon in your browser toolbar to access the annotation tools. You can highlight key points, add comments, and create tags to organize your annotations effectively. 
+
 ![highlight](<Capstone Project Media\Images\WhatsApp Image 2024-04-29 at 03.13.04_0cc0ca0f.jpg>)
 
 Annotating YouTube videos with Glasp in the YouTube app is a straightforward process that enhances your video-watching experience. By following the steps outlined in this guide, you can make personalized notes, highlight important moments, and engage with the content in a more meaningful way. So next time you're watching a YouTube video on your mobile device, remember to leverage Glasp for an interactive and insightful viewing experience. 
